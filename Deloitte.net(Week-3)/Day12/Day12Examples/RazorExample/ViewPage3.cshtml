@@ -1,0 +1,53 @@
+﻿@using RazorExample;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    @{ 
+        List<StudentInfo> si = new List<StudentInfo>
+        {
+            new StudentInfo
+            {RollNo=1,Name="kadiri",Course="Btech",branch="Mech",Sem=8,Aggregate=79.6,Grade='A'},
+            new StudentInfo
+            {RollNo=2,Name="Aravind",Course="Mtech",branch="Civ",Sem=4,Aggregate=89.6,Grade='A'},
+            new StudentInfo
+            {RollNo=3,Name="Sai",Course="Mtech",branch="CSE",Sem=3,Aggregate=69.6,Grade='B'},
+            new StudentInfo
+            {RollNo=4,Name="teja",Course="Btech",branch="IT",Sem=7,Aggregate=75.6,Grade='B'},
+    };
+    }
+    <div>
+    <table border="1" style="background-color:lightseagreen;font-family:Arial;font-size:large">
+        <tr>
+            <th>Roll No</th>
+            <th>Name</th>
+            <th>Course</th>
+            <th>Branch</th>
+            <th>Sem</th>
+            <th>Aggr</th>
+            <th>Grade</th>
+        </tr>
+        @foreach (var s in si)
+        {
+        <tr>
+            <td>@s.RollNo</td>
+            <td>@s.Name</td>
+            <td>@s.Course</td>
+            <td>@s.branch</td>
+            <td>@s.Sem</td>
+            <td>@s.Aggregate</td>
+            <td>@s.Grade</td>
+        </tr>
+        }
+    </table>
+    </div>
+</body>
+</html>

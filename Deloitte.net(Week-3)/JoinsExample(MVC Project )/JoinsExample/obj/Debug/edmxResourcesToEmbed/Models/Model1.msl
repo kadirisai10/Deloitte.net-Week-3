@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainingDBModelStoreContainer" CdmEntityContainer="TrainingDBEntities2">
+    <EntitySetMapping Name="Models">
+      <EntityTypeMapping TypeName="TrainingDBModel.Model">
+        <MappingFragment StoreEntitySet="Model">
+          <ScalarProperty Name="modelid" ColumnName="modelid" />
+          <ScalarProperty Name="modelname" ColumnName="modelname" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="prodid" ColumnName="prodid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="TrainingDBModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="prodid" ColumnName="prodid" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="TrainingDBModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="orderdate" ColumnName="orderdate" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="Qty" ColumnName="Qty" />
+          <ScalarProperty Name="modelid" ColumnName="modelid" />
+          <ScalarProperty Name="Productid" ColumnName="Productid" />
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

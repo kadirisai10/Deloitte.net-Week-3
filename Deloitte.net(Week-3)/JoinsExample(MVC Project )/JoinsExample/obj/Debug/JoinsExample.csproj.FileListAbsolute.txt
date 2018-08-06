@@ -1,0 +1,146 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\ApplicationInsights.config
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\csc.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\vbc.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\VBCSCompiler.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\JoinsExample.dll.config
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\JoinsExample.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\JoinsExample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\EntityFramework.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.Web.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.ApplicationInsights.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Helpers.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Mvc.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Razor.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Webpages.Deployment.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Webpages.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Webpages.Razor.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\EntityFramework.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.Web.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.ApplicationInsights.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Razor.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Webpages.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Webpages.Deployment.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Webpages.Razor.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Helpers.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\bin\System.Web.Mvc.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\obj\Debug\JoinsExample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\obj\Debug\JoinsExample.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\JoinsExample\JoinsExample\obj\Debug\JoinsExample.pdb
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\ApplicationInsights.config
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\csc.exe
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\vbc.exe
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\JoinsExample.dll.config
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\JoinsExample.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\JoinsExample.pdb
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\EntityFramework.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.Web.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Helpers.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Mvc.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Razor.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\EntityFramework.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.Web.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Razor.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Helpers.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\bin\System.Web.Mvc.xml
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\obj\Debug\JoinsExample.csprojAssemblyReference.cache
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\obj\Debug\JoinsExample.csproj.CoreCompileInputs.cache
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\obj\Debug\JoinsExample.csproj.CopyComplete
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\obj\Debug\JoinsExample.dll
+C:\Users\Sai\Desktop\JoinsExample\JoinsExample\obj\Debug\JoinsExample.pdb
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\ApplicationInsights.config
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\csc.exe
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\vbc.exe
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\JoinsExample.dll.config
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\JoinsExample.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\JoinsExample.pdb
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\EntityFramework.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.Web.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Helpers.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Mvc.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Razor.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\EntityFramework.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.Web.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Razor.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Helpers.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\bin\System.Web.Mvc.xml
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\obj\Debug\JoinsExample.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\obj\Debug\JoinsExample.dll
+C:\Users\nexwave\Desktop\JoinsExample\JoinsExample\obj\Debug\JoinsExample.pdb

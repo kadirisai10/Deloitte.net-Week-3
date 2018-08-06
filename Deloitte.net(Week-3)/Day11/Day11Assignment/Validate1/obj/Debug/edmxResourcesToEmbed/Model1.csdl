@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AssignmentDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CardInfo">
+    <Key>
+      <PropertyRef Name="CardNo" />
+    </Key>
+    <Property Name="CardNo" Type="Int32" Nullable="false" />
+    <Property Name="ExpDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CvvNo" Type="Int32" Nullable="false" />
+    <Property Name="Balance" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="AssignmentDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CardInfoes" EntityType="Self.CardInfo" />
+  </EntityContainer>
+</Schema>

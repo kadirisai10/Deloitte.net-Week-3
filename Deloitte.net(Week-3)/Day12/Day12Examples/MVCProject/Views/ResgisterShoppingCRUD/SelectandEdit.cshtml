@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MVCProject.Models.ResgisterShopping>
+@{
+    ViewBag.Title = "SelectandEdit";
+}
+
+<h2>SelectandEdit</h2>
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>name</th>
+        <th>Gender</th>
+        <th>Membership</th>
+        <th>Shopping Preference</th>
+        <th>COD</th>
+        <th>Password</th>
+        <th>Edit</th>
+    </tr>
+    @foreach (var i in Model)//Model is an inbuilt property which points to table
+    {
+        <tr>
+            <td>@i.Id</td>
+            <td>@i.Name</td>
+            <td>@i.Gender</td>
+            <td>@i.Membership</td>
+            <td>@i.ShoppingPreference</td>
+            <td>@i.COD</td>
+            <td>@i.Password</td>
+            <td>@Html.ActionLink("Edit"+ @i.Id.ToString(),"Update",new { ID = @i.Id.ToString() })</td>
+        </tr>
+    }
+</table>
+@Html.ActionLink("Insert New","InsertResgisterShopping")

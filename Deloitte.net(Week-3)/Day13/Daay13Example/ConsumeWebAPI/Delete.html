@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function () {
+    $("#b1").click(function () {
+        var id = parseInt($("#txtid").val());
+        alert(id);
+        $.ajax({
+            url: "http://localhost:50939/api/UserInfoAPI/" + id,
+            method: 'Delete',
+            success: function (data) {
+                alert(data);
+                if (data == null)
+                    alert("invalid ID");
+                else {
+                    document.write(data.Id + "," + data.name + "," + data.status)
+                }
+            }
+
+
+        });
+
+
+
+    });
+    });
+    </script>
+</head>
+<body>
+    <div>
+        <label>Enter Id:</label>
+        <input type="number" id="txtid" />
+    </div>
+    <div>
+        <button id="b1">Remove</button>
+    </div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "OrderSummary";
+}
+
+<h2>OrderSummary</h2>
+@using (Html.BeginForm())
+{
+	
+	<div>
+		<label>Order Id:</label>
+		@Html.TextBox("txtorderid",Session["oid"])
+	</div>
+	<div>
+		<table>
+			<tr>
+				<th>Product Name</th>
+				<th>Item Price</th>
+				<th>Quantity</th>
+				<th>Subtotal</th>
+			</tr>
+
+			<tr>
+				<td>@Session["modelname1"]</td>
+				<td>@Session["price"]</td>
+				<td>@Session["qty"]</td>
+				<td>@Session["amount1"]</td>
+			</tr>
+		</table>
+		<div>
+			<label>Order Will Be Delivered by</label>
+			@Html.TextBox("txtdel",Session["delivery1"])
+		</div>
+	</div>
+
+}
+@Html.ActionLink("Track Order", "TrackOrder")
+
+
+
+
+

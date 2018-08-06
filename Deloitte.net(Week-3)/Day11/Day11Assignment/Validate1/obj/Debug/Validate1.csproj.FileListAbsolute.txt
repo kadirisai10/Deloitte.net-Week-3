@@ -1,0 +1,8 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\Validate1\bin\Debug\Validate1.dll.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\Validate1\bin\Debug\Validate1.dll
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\Validate1\bin\Debug\Validate1.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\Validate1\bin\Debug\EntityFramework.dll
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\Validate1\bin\Debug\EntityFramework.xml
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\Validate1\obj\Debug\Validate1.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\Validate1\obj\Debug\Validate1.dll
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\Validate1\obj\Debug\Validate1.pdb

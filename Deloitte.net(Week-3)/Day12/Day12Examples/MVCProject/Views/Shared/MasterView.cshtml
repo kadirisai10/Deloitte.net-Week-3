@@ -1,0 +1,18 @@
+﻿<div style="background-color:darkmagenta;font-family:Arial;text-shadow:201px 12px 2px green">
+    <h1>Resgister Shopping MVC Application</h1>
+</div>
+
+<div style="background-color:brown;font-family:Arial;color:beige;width:auto;height:auto">
+    <table border="1">
+        <tr>
+            <td>@Html.ActionLink("InsertNew","InsertResgisterShopping","ResgisterShoppingCRUD")</td>
+            <td>@Html.ActionLink("SelectAll","SelectAllResgisterShopping","ResgisterShoppingCRUD")</td>
+            <td>@Html.ActionLink("Select and Edit","SelectandEdit","ResgisterShoppingCRUD")</td>
+            <td>@Html.ActionLink("Select BY ID","SelectById","ResgisterShoppingCRUD")</td>
+        </tr>
+
+    </table>
+</div>
+<div style="background-color:Highlight">
+    @RenderBody();
+</div>

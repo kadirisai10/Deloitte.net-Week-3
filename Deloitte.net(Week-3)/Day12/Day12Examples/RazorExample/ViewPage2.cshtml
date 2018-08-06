@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+    @{ 
+        string[] cities = { "Bang", "Hyd", "Mum", "Del", "Vskp", "Kol" };
+
+        <ol>
+            @foreach (var item in cities)
+            {
+                <li>@item</li>
+            }
+        </ol>
+
+    }
+    </div>
+</body>
+</html>

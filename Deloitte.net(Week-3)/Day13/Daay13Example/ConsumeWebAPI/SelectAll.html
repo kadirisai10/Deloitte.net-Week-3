@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#b1").click(function () {
+                $.ajax({
+                    url: 'http://localhost:50939/api/UserInfoAPI',
+                    method: 'Get',
+                    success: function (data) {
+                        alert(data.length);
+                        for (var i = 0; i < data.length; i++) {
+                            $("#tbl").append("<tr><td>" + data[i].Id + "</td><td>" + data[i].name + "</td><td>" + data[i].status + "</td></tr>");
+                        }
+                    }
+
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <button id="b1">Select All</button>
+    <table border="1" id="tbl">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+
+        </tr>
+    </table>
+</body>
+</html>

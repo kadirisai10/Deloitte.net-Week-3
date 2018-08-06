@@ -1,0 +1,10 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\bin\Debug\SelfHosting.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\bin\Debug\SelfHosting.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\bin\Debug\Validate1.dll
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\bin\Debug\EntityFramework.dll
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\bin\Debug\Validate1.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\bin\Debug\EntityFramework.xml
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\obj\Debug\SelfHosting.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\obj\Debug\SelfHosting.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day11Assignment\SelfHosting\obj\Debug\SelfHosting.pdb

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Model">
+    <Key>
+      <PropertyRef Name="modelid" />
+    </Key>
+    <Property Name="modelid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="modelname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="prodid" Type="Int32" />
+    <NavigationProperty Name="Product" Relationship="Self.FK__Model__prodid__25869641" FromRole="Model" ToRole="Product" />
+    <NavigationProperty Name="Orders" Relationship="TrainingDBModel.FK__Order__modelid__30F848ED" FromRole="Model" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="prodid" />
+    </Key>
+    <Property Name="prodid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Models" Relationship="Self.FK__Model__prodid__25869641" FromRole="Product" ToRole="Model" />
+    <NavigationProperty Name="Orders" Relationship="TrainingDBModel.FK__Order__Productid__300424B4" FromRole="Product" ToRole="Order" />
+  </EntityType>
+  <Association Name="FK__Model__prodid__25869641">
+    <End Role="Product" Type="Self.Product" Multiplicity="0..1" />
+    <End Role="Model" Type="Self.Model" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="prodid" />
+      </Principal>
+      <Dependent Role="Model">
+        <PropertyRef Name="prodid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TrainingDBEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Models" EntityType="Self.Model" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <AssociationSet Name="FK__Model__prodid__25869641" Association="Self.FK__Model__prodid__25869641">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Model" EntitySet="Models" />
+    </AssociationSet>
+    <EntitySet Name="Orders" EntityType="TrainingDBModel.Order" />
+    <AssociationSet Name="FK__Order__modelid__30F848ED" Association="TrainingDBModel.FK__Order__modelid__30F848ED">
+      <End Role="Model" EntitySet="Models" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Order__Productid__300424B4" Association="TrainingDBModel.FK__Order__Productid__300424B4">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Productid" Type="Int32" Nullable="false" />
+    <Property Name="modelid" Type="Int32" Nullable="false" />
+    <Property Name="Qty" Type="Int32" Nullable="false" />
+    <Property Name="address" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="orderdate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Model" Relationship="TrainingDBModel.FK__Order__modelid__30F848ED" FromRole="Order" ToRole="Model" />
+    <NavigationProperty Name="Product" Relationship="TrainingDBModel.FK__Order__Productid__300424B4" FromRole="Order" ToRole="Product" />
+  </EntityType>
+  <Association Name="FK__Order__modelid__30F848ED">
+    <End Type="TrainingDBModel.Model" Role="Model" Multiplicity="1" />
+    <End Type="TrainingDBModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Model">
+        <PropertyRef Name="modelid" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="modelid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Order__Productid__300424B4">
+    <End Type="TrainingDBModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="TrainingDBModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="prodid" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="Productid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

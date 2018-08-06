@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginService", "LoginService\LoginService.csproj", "{2364AA85-DCE0-4374-A6B9-9F8CE2E8AE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHosting", "SelfHosting\SelfHosting.csproj", "{F3BCF67A-FF6D-4774-8F5C-856632A5231D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{1DFBBD54-A55B-4CA7-BF09-B424CD0B3F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2364AA85-DCE0-4374-A6B9-9F8CE2E8AE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2364AA85-DCE0-4374-A6B9-9F8CE2E8AE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2364AA85-DCE0-4374-A6B9-9F8CE2E8AE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2364AA85-DCE0-4374-A6B9-9F8CE2E8AE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BCF67A-FF6D-4774-8F5C-856632A5231D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BCF67A-FF6D-4774-8F5C-856632A5231D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BCF67A-FF6D-4774-8F5C-856632A5231D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BCF67A-FF6D-4774-8F5C-856632A5231D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFBBD54-A55B-4CA7-BF09-B424CD0B3F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFBBD54-A55B-4CA7-BF09-B424CD0B3F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFBBD54-A55B-4CA7-BF09-B424CD0B3F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFBBD54-A55B-4CA7-BF09-B424CD0B3F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
